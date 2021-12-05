@@ -1,4 +1,4 @@
-# PSATurnaroundTimes
+# PSA Turnaround Times (Complete Through Dates)
 
 Small console application which takes a screenshot of the PSA Turnaround Times (Complete Through Date) table and posts to a Discord webhook of your choice.
 
